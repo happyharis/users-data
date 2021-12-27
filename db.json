@@ -1,5 +1,5 @@
 {
     "users": [
-        {"name" : "Haris", "birthday": {"day": 31, "month": 12, "year": 1994}},
+        {"name" : "Haris", "birthday": {"day": 31, "month": 12, "year": 1994}}
     ]
 }
